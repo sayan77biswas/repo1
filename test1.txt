@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is AA8A-593B
+
+ Directory of C:\Users\SAYAN\Desktop\MyProject
+
+23-Feb-21  02:00 PM    <DIR>          .
+23-Feb-21  02:00 PM    <DIR>          ..
+23-Feb-21  01:33 PM               403 index.html
+23-Feb-21  01:32 PM                18 test.txt
+23-Feb-21  02:00 PM                 0 test1.txt
+               3 File(s)            421 bytes
+               2 Dir(s)  320,417,148,928 bytes free
